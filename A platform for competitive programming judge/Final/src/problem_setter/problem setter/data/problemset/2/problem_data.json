@@ -1,0 +1,9 @@
+{
+    "problem_title": "Magical Array Rotation",
+    "problem_statement": "In the Chamber of Secrets, Harry Potter needs to perform a spell to rotate the ingredients of a potion to the left.\n The ingredients of the potion are stored in an array of size 'n'. Harry needs to perform 'r' rotations,\n where each rotation shifts each element of the array one unit to the left.\n Can you help Harry write a spell to perform the rotations and return the result?\r\n\r\nMay the magic be with you!\r\n\r\nInput\r\nThe first line contains two space-separated integers n (1 \u2264 n \u2264 10^5) and r (1 \u2264 r \u2264 10^9),\n the number of integers and the number of left rotations to perform repectively.\r\n\r\nThe second line contains n integers a1, a2, a3, \u2026 , an (1 \u2264 ai \u2264 10^9) \u2014 the array itself.\r\n\r\nOutput\r\nOutput n space separated integers representing the rotated array.\r\n\r\nNotes\r\nThe sample test case can be simulated as below,\r\n\r\nPerforming r = 3 rotation to the left,\r\n\r\n{ 2, 4, 1, 5, 3 } - given array\r\n\r\n{ 4, 1, 5, 3, 2 } - rotation 1\r\n\r\n{ 1, 5, 3, 2, 4 } - rotation 2\r\n\r\n{ 5, 3, 2, 4, 1 } - rotation 3",
+    "sample_input": "..\/data\/problemset\/2\/sample.in",
+    "sample_output": "..\/data\/problemset\/2\/sample.out",
+    "test_case_1_input": "..\/data\/problemset\/2\/1.in",
+    "test_case_1_output": "..\/data\/problemset\/2\/1.out",
+    "solution": "..\/data\/problemset\/2\/solution.txt"
+}

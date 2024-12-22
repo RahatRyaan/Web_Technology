@@ -1,0 +1,9 @@
+{
+    "problem_title": "A + B",
+    "problem_statement": "Given two integers a and b, calculate and print their sum.\n\nInput\nTwo integers a and b (0 <= a, b <= 10^5)\n\nOutput\nOne integer, representing the sum of a and b",
+    "sample_input": "..\/data\/problemset\/1\/sample.in",
+    "sample_output": "..\/data\/problemset\/1\/sample.out",
+    "test_case_1_input": "..\/data\/problemset\/1\/1.in",
+    "test_case_1_output": "..\/data\/problemset\/1\/1.out",
+    "solution": "..\/data\/problemset\/1\/solution.txt"
+}

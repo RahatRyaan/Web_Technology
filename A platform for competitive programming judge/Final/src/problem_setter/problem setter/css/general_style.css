@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #000000;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+table {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border-color: #ddd;
+}
+
+td {
+    padding: 12px 15px;
+}
+
+td:hover {
+    background-color: #7dada1;
+}

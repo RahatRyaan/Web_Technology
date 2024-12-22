@@ -1,0 +1,54 @@
+[
+    {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Email": "wamizesela@mailinator.com",
+        "Dob": "1990-01-15",
+        "Gender": "male",
+        "Organization": "Tech Solutions Inc.",
+        "Country": "United States",
+        "Phone": "5551234567",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Password": "securePassword123",
+        "ProfilePicture": "..\/uploads\/wamizesela@mailinator.com.jpg"
+    },
+    {
+        "FirstName": "Alice",
+        "LastName": "Johnson",
+        "Email": "tevumiwe@mailinator.com",
+        "Dob": "1985-09-28",
+        "Gender": "female",
+        "Organization": "Global Innovations Ltd.",
+        "Country": "Canada",
+        "Phone": "4165557890",
+        "Bio": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Password": "StrongPass!23",
+        "ProfilePicture": "..\/uploads\/tevumiwe@mailinator.com.jpg"
+    },
+    {
+        "FirstName": "Bob",
+        "LastName": "Smith",
+        "Email": "vyhadebo@mailinator.com",
+        "Dob": "1995-03-10",
+        "Gender": "male",
+        "Organization": "Data Dynamics Co.",
+        "Country": "United Kingdom",
+        "Phone": "442071234567",
+        "Bio": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "Password": "SafePwd789",
+        "ProfilePicture": "..\/uploads\/vyhadebo@mailinator.com.jpg"
+    },
+    {
+        "FirstName": "Emily",
+        "LastName": "Brown",
+        "Email": "xugaleq@mailinator.com",
+        "Dob": "1988-12-03",
+        "Gender": "female",
+        "Organization": "Innovate Solutions Pty Ltd.",
+        "Country": "Australia",
+        "Phone": "61298765432",
+        "Bio": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "Password": "ProtectedPass456",
+        "ProfilePicture": "..\/uploads\/xugaleq@mailinator.com.jpg"
+    }
+]

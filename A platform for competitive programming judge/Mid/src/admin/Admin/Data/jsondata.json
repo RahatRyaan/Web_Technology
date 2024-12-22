@@ -1,0 +1,46 @@
+[
+    {
+        "Name": "Iron Man",
+        "Gender": "male",
+        "Email": "as@gmail.com",
+        "Phone": "8801234567",
+        "Dob": "01\/01\/2002",
+        "Address": "Dhaka",
+        "JoinDate": "04\/07\/2020",
+        "Password": "a",
+        "file": "..\/Uploads\/as@gmail.com.jpg"
+    },
+    {
+        "Name": "Ferdinand Vega",
+        "Gender": "male",
+        "Email": "tyxizoso@mailinator.com",
+        "Phone": "+1 (527) 459-5789",
+        "Dob": "1982-02-03",
+        "Address": "Id eos voluptate fu",
+        "JoinDate": "2013-10-11",
+        "Password": "Pa$$w0rd!",
+        "file": "..\/uploads\/tyxizoso@mailinator.com.jpg"
+    },
+    {
+        "Name": "Carson Lindsay",
+        "Gender": "female",
+        "Email": "wolymokiq@mailinator.com",
+        "Phone": "+1 (322) 122-4509",
+        "Dob": "2020-02-18",
+        "Address": "Sed quae ea aliquid ",
+        "JoinDate": "2000-03-23",
+        "Password": "Pa$$w0rd!",
+        "file": "..\/uploads\/wolymokiq@mailinator.com.jpg"
+    },
+    {
+        "Name": "Joan Cohen",
+        "Gender": "female",
+        "Email": "tebu@mailinator.com",
+        "Phone": "0145656",
+        "Dob": "1994-01-15",
+        "Address": "Ipsum",
+        "JoinDate": "1994-09-02",
+        "Password": "Pa$$w0rd!",
+        "file": "..\/uploads\/tebu@mailinator.com.jpg"
+    }
+]

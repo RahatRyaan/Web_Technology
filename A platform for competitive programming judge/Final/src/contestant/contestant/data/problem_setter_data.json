@@ -1,0 +1,67 @@
+[
+    {
+        "FirstName": "Kenyon",
+        "LastName": "Molla",
+        "Email": "wamizesela@mailinator.com",
+        "Dob": "1983-11-27",
+        "Gender": "female",
+        "Organization": "Underwood Pittman Plc",
+        "Country": "Australia",
+        "Phone": "899997583",
+        "Bio": "Atque doloremque rei",
+        "Password": "12345",
+        "ProfilePicture": "..\/uploads\/wamizesela@mailinator.com.jpg"
+    },
+    {
+        "FirstName": "Hoyt",
+        "LastName": "Walls",
+        "Email": "tevumiwe@mailinator.com",
+        "Dob": "1990-06-23",
+        "Gender": "other",
+        "Organization": "Chapman Mcgee Traders",
+        "Country": "Australia",
+        "Phone": "23296755555",
+        "Bio": "Totam sit nulla simi",
+        "Password": "Pa$$w0rd!",
+        "ProfilePicture": "..\/uploads\/tevumiwe@mailinator.com.jpg"
+    },
+    {
+        "FirstName": "Abu",
+        "LastName": "Sayem",
+        "Email": "vyhadebo@mailinator.com",
+        "Dob": "2000-08-12",
+        "Gender": "male",
+        "Organization": "Holcomb and Mullins Trading",
+        "Country": "Australia",
+        "Phone": "1232322384",
+        "Bio": "Enim autem qui et de",
+        "Password": "Pa$$w0rd!",
+        "ProfilePicture": "..\/uploads\/vyhadebo@mailinator.com.jpg"
+    },
+    {
+        "FirstName": "Kelsey",
+        "LastName": "Simpson",
+        "Email": "xugaleq@mailinator.com",
+        "Dob": "2002-07-07",
+        "Gender": "other",
+        "Organization": "Kinney Bowman Trading",
+        "Country": "Afghanistan",
+        "Phone": "1889",
+        "Bio": "Magnam mollit volupt",
+        "Password": "Pa$$w0rd!",
+        "ProfilePicture": "..\/uploads\/xugaleq@mailinator.com.jpg"
+    },
+    {
+        "FirstName": "Imogene",
+        "LastName": "Herrera",
+        "Email": "as@gmail.com",
+        "Dob": "2006-08-02",
+        "Gender": "male",
+        "Organization": "Fitzpatrick Duke Traders",
+        "Country": "Australia",
+        "Phone": "11111111111",
+        "Bio": "Hic excepturi tempor",
+        "Password": "a",
+        "ProfilePicture": "..\/uploads\/a@gmail.com.jpg"
+    }
+]

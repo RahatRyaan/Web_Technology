@@ -1,0 +1,26 @@
+[
+    {
+        "FirstName": "Angelica",
+        "LastName": "Burch",
+        "Email": "qetycyguf@mailinator.com",
+        "Dob": "1982-08-07",
+        "Gender": "female",
+        "Organization": "Solis Beasley Co",
+        "Country": "Afghanistan",
+        "Phone": "5008",
+        "Password": "Pa$$w0rd!",
+        "file": "..\/uploads\/qetycyguf@mailinator.com.jpg"
+    },
+    {
+        "FirstName": "Darryl",
+        "LastName": "Thornton",
+        "Email": "pacen@mailinator.com",
+        "Dob": "2010-07-11",
+        "Gender": "male",
+        "Organization": "Benton",
+        "Country": "Afghanistan",
+        "Phone": "9475",
+        "Password": "Pa$$w0rd!",
+        "ProfilePicture": "..\/uploads\/pacen@mailinator.com.jpg"
+    }
+]
